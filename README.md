@@ -1,6 +1,8 @@
 
 ### Hi there 👋
 My name is Maks. I'm from Moscow. I'm beginner front-end developer.
+![LimkedIn]('../../assets/001-linkedin.png')
+
 ### Stack:
 1. JavaScript:
     * ES6+
@@ -13,8 +15,10 @@ My name is Maks. I'm from Moscow. I'm beginner front-end developer.
     * SASS
 3. HTML
 ### In progress:
-    React ![10%](https://progress-bar.dev/10)
-    Bootstrap ![10%](https://progress-bar.dev/10)
+
+React ![10%](https://progress-bar.dev/10)
+
+Bootstrap ![10%](https://progress-bar.dev/10)
 
 [Example](http://example.com/)
 
