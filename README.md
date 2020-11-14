@@ -11,7 +11,7 @@ My name is Maks. I'm from Moscow. I'm beginner front-end developer.
 [![Telegram](/../main/assets/004-telegram.png)](https://t.me/kvadratpm)
 </center>
 
-### Stack:
+### Skills: :computer:
 
 1. JavaScript:
     * ES6+
