@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 My name is Maks. I'm from Moscow. I'm beginner front-end developer.
-![LimkedIn]('../../assets/001-linkedin.png')
+![LinkedIn]('../assets/001-linkedin.png')
 
 ### Stack:
 1. JavaScript:
