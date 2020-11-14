@@ -18,10 +18,10 @@ My name is Maks. I'm from Moscow. I'm beginner front-end developer.
     * Webpack
     * ESLint
 
-2. CSS ![CSS](/../main/assets/003-css.png):: 
+2. CSS ![CSS](/../main/assets/003-css.png):
     * SASS
-3. HTML ![HTML](![JS](/../main/assets/002-html.png):)
-4. Python ![Python]((/../main/assets/python.png)
+3. HTML ![HTML](/../main/assets/002-html.png)
+4. Python ![Python](/../main/assets/python.png)
 
 ### In progress:
 
