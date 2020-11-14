@@ -8,9 +8,9 @@ My name is Maks. I'm from Moscow. I'm beginner front-end developer.
 [![Telegram](/../main/assets/004-telegram.png)](https://t.me/kvadratpm)
 </center>
 
-### Stack:
+### Skills :computer::
 
-1. JavaScript:
+1. JavaScript ![JS](/../main/assets/001-javascript.png):
     * ES6+
     * TypeScript
     * Node.js
@@ -18,10 +18,10 @@ My name is Maks. I'm from Moscow. I'm beginner front-end developer.
     * Webpack
     * ESLint
 
-2. CSS: 
+2. CSS ![CSS](/../main/assets/003-css.png):: 
     * SASS
-
-3. HTML
+3. HTML ![HTML](![JS](/../main/assets/002-html.png):)
+4. Python ![Python]((/../main/assets/python.png)
 
 ### In progress:
 
@@ -34,7 +34,7 @@ Bootstrap ![10%](https://progress-bar.dev/10)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭:computer I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
