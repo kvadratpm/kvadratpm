@@ -1,5 +1,7 @@
 
-<center>### Hi there 👋
+<center>
+
+### Hi there 👋
 My name is Maks. I'm from Moscow. I'm beginner front-end developer.
 
 [![LinkedIn](/../main/assets/001-linkedin.png)](https://www.linkedin.com/in/maksim-perevyazkin-2376051b0/)
