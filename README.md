@@ -27,6 +27,8 @@ My name is Maks. I'm from Moscow. I'm beginner front-end developer.
 
 ### In progress :construction::
 
+Angular ![60%](https://progress-bar.dev/60)
+
 React ![10%](https://progress-bar.dev/10)
 
 Bootstrap ![10%](https://progress-bar.dev/10)
