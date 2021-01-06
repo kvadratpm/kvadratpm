@@ -19,19 +19,12 @@ My name is Maks. I'm from Moscow. I'm beginner front-end developer.
     * Babel
     * Webpack
     * ESLint
+    * Angular
 
 2. CSS ![CSS](/../main/assets/003-css.png):
     * SASS
 3. HTML ![HTML](/../main/assets/002-html.png)
 4. Python ![Python](/../main/assets/004-python.png)
-
-### In progress :construction::
-
-Angular ![60%](https://progress-bar.dev/60)
-
-React ![10%](https://progress-bar.dev/10)
-
-Bootstrap ![10%](https://progress-bar.dev/10)
 
 ### Ready projects :white_check_mark::
 
@@ -57,7 +50,15 @@ Bootstrap ![10%](https://progress-bar.dev/10)
 
 6. [Gem-puzzle](https://rolling-scopes-school.github.io/kvadratpm-JS2020Q3/gem-puzzle/)
    
-   Realization of the classic tag game. Supports field change from 3 to 8, save, table of records. Used HTML, CSS, TS, Web-pack, Babel. Completed during training at Rolling Scopes School.
+   Realization of the classic tag game. Supports field change from 3 to 8, save, table of records. Used HTML, SCSS, TS, Web-pack, Babel. Completed during training at Rolling Scopes School.
+   
+7. [English-for-kids](https://rolling-scopes-school.github.io/kvadratpm-JS2020Q3/english-for-kids/)
+   
+   Web application for teaching children English. Used HTML, SCSS, TS, Web-pack, Babel. Completed during training at Rolling Scopes School.
+   
+8. [Covid-dashboard](https://kvadratpm-covid-dashboard.netlify.app/)
+
+   Online map of COVID-19 distribution. First experience with Angular. Completed during training at Rolling Scopes School.
 
 <!--
 **kvadratpm/kvadratpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
