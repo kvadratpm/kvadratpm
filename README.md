@@ -2,7 +2,7 @@
 <center>
 
 ### Hi there 👋
-My name is Maks. I'm from Moscow. I'm front-end developer. Open to job offers
+My name is Maks. I'm from Moscow. I'm front-end developer.
 
 [![LinkedIn](/../main/assets/001-linkedin.png)](https://www.linkedin.com/in/maksim-perevyazkin-2376051b0/)
 [![Facebook](/../main/assets/002-facebook.png)](https://www.facebook.com/maxim.perevyazkin/)
